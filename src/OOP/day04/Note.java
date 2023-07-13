@@ -1,5 +1,7 @@
 package OOP.day04;
 
+import OOP.day02.Animal;
+
 /**
  * 成员内部类
  * 类中套类
@@ -26,6 +28,8 @@ public class Note {//外部类
 class Test {
     public static void main(String[] args) {
         Note o1 = new Note();
+        Animal animal = new Animal("qwq", 11, "13", "3");
 
     }
+
 }
