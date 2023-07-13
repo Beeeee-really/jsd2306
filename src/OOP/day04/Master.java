@@ -15,7 +15,7 @@ public class Master {
 
     void feed(Animal animal) {
         animal.eat();
-    }
+    } 
 
     public static void main(String[] args) {
         Master master = new Master();
