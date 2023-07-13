@@ -18,20 +18,21 @@ public class AnonInnerClassDemo {
     }
 
 
-    class Aoo implements interinter{
-        public void show(){
+    class Aoo implements interinter {
+        public void show() {
 
         }
     }
+
     interface inter1 {
 
     }
 
-    interface interinter{
+    interface interinter {
         void show();
     }
 
-    interface inter{
+    interface inter {
 
     }
 
