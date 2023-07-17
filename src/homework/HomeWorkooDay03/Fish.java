@@ -1,4 +1,4 @@
-package homework.HomeWork8;
+package homework.HomeWorkooDay03;
 
 public class Fish extends Animal implements Swim{
     Fish (String name,int age,String color){

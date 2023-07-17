@@ -1,4 +1,4 @@
-package homework.HomeWork7.Person;
+package homework.HomeWorkooDay02.Person;
 
 public class Doctor extends Person{
     String title;

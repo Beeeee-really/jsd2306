@@ -1,4 +1,4 @@
-package homework.HomeWork7.Animal;
+package homework.HomeWorkooDay02.Animal;
 
 import OOP.day02.Dog;
 import OOP.day02.Fish;

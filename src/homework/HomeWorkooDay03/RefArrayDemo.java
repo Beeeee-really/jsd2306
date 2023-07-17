@@ -1,4 +1,4 @@
-package homework.HomeWork8;
+package homework.HomeWorkooDay03;
 
 public class RefArrayDemo {
     public static void main(String[] args) {
